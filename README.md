@@ -1,2 +1,4 @@
 # CarSalesDashboard
 This project is a comprehensive Car Sales Dashboard created in Microsoft Excel to provide insightful visualizations and analytics for car sales data. This user-friendly dashboard allows users to gain valuable insights into their car sales performance.
+
+This project was developed with reference to the Coursera Project Network course titled "Create Charts and Dashboard using Google Sheets." The course provided valuable guidance and insights on creating effective charts and dashboards in Google Sheets. The knowledge and skills gained from this course were instrumental in designing and implementing the charts and dashboard features of this project. By incorporating the best practices learned from the course, this project aims to deliver a user-friendly and visually appealing dashboard for data analysis and visualization in Google Sheets.
